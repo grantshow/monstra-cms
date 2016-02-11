@@ -3,7 +3,7 @@
     return array(
         'system' => array(
             'System' => 'System',
-            'Published a new version of the :monstra' => 'Published a new version of the :monstra',
+            'A new version of :monstra is available' => 'A new version of :monstra is available',
             'Sitemap created' => 'Sitemap created',
             'Create Sitemap' => 'Create Sitemap',
             'on' => 'on',
